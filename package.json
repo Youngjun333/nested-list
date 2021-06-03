@@ -6,6 +6,7 @@
   "repository": "https://github.com/editor-js/nested-list.git",
   "author": "CodeX <team@codex.so>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development --watch",
